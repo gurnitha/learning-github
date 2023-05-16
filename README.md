@@ -79,4 +79,4 @@ To create a task list, preface list items with a hyphen and space followed by [ 
 
 ## Add image
 
-[this is an image](<img src="img.jpg" width="400">)
+![this is an image](<img src="img.jpg" width="400">)
